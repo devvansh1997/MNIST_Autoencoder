@@ -1,0 +1,13 @@
+Using device: cpu
+--- Dataset Loaded ---
+Epoch 1 | Train Loss: 0.0416 | Test Loss: 0.0193
+Epoch 2 | Train Loss: 0.0155 | Test Loss: 0.0125
+Epoch 3 | Train Loss: 0.0114 | Test Loss: 0.0097
+Epoch 4 | Train Loss: 0.0090 | Test Loss: 0.0080
+Epoch 5 | Train Loss: 0.0076 | Test Loss: 0.0069
+Epoch 6 | Train Loss: 0.0067 | Test Loss: 0.0062
+Epoch 7 | Train Loss: 0.0061 | Test Loss: 0.0056
+Epoch 8 | Train Loss: 0.0056 | Test Loss: 0.0052
+Epoch 9 | Train Loss: 0.0052 | Test Loss: 0.0049
+Epoch 10 | Train Loss: 0.0049 | Test Loss: 0.0046
+Saved model as mlp_autoencoder.pth

@@ -2,3 +2,4 @@
 /data
 # python env cache
 utils/__pycache__
+models/__pycache__

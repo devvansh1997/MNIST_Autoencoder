@@ -1,0 +1,37 @@
+{
+  "os": "macOS-26.0.1-arm64-arm-64bit",
+  "python": "CPython 3.12.2",
+  "startedAt": "2025-11-10T16:41:14.128541Z",
+  "program": "/Users/dev/Library/CloudStorage/OneDrive-UniversityofCentralFlorida/Fall'25/ComputerVision/MNIST_Autoencoder/main.py",
+  "codePath": "main.py",
+  "codePathLocal": "main.py",
+  "git": {
+    "remote": "git@github.com:devvansh1997/MNIST_Autoencoder.git",
+    "commit": "f1d0cd3cafb4c8b49d732c7ba537a0b27801b95e"
+  },
+  "email": "devansh.sharma1997@gmail.com",
+  "root": "/Users/dev/Library/CloudStorage/OneDrive-UniversityofCentralFlorida/Fall'25/ComputerVision/MNIST_Autoencoder",
+  "host": "Devanshs-MacBook-Air-2.local",
+  "executable": "/Users/dev/ML/bin/python",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "208896204800"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "apple": {
+    "name": "Apple M1",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 7,
+    "memoryGb": 8,
+    "swapTotalBytes": "5368709120",
+    "ramTotalBytes": "8589934592"
+  },
+  "writerId": "1btamfihr9zz3myngtp6ku8rq3f4ypa2"
+}

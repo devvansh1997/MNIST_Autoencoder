@@ -1,8 +1,10 @@
-# training
+model_type: "cnn"          # or "cnn"
 batch_size: 128
 epochs: 10
-lr: 0.001
-device: "mps"
-model_type: "mlp"
-seed: 1997
+learning_rate: 0.001
+
+device: "cpu"             # cpu / mps / auto
+
 log_wandb: true
+wandb_project: "mnist_autoencoders"
+wandb_run_name: "cnn_run"  # or cnn_run

@@ -1,0 +1,8 @@
+# training
+batch_size: 128
+epochs: 10
+lr: 0.001
+device: "mps"
+model_type: "mlp"
+seed: 1997
+log_wandb: true
